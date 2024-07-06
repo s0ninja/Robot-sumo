@@ -14,7 +14,7 @@
 
 
 
-/*------------------------------------------------------------------------------------------------
+/*------------------------------------- ATTENTION --------------------------------------------------
 
 Les codes se trouvant dans le dossier || Robot-simo > code || doivent être adaptés à vos robots 
 en raison des défaillances multiples des roues, de leur sens ainsi que des capteurs
@@ -44,8 +44,3 @@ else if () {} // Sinon si, il faut l'use seulement si on a d'autre condition
 
 void setup {} //sert a setup (à mettre en place) le programme | Donner les information de base à ton programme
 void loop {} //On vas éxécuté le programme ici
-
-//--------------------------------------------- ATTENTION ---------------------------------------------
-
-/*Les codes se trouvant dans le dossier || Robot-sumo > code || doivent être adaptés à vos robots 
-en raison des défaillances multiples des roues, de leur sens ainsi que des capteurs*/
