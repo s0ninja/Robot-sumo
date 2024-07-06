@@ -12,6 +12,8 @@
  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀        ▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀        ▀▀  ▀▀▀▀▀▀▀      ▀         ▀ 
 */
 
+// Code de Robot à 3 capteurs
+
 #define capteurDeLigneGauche 5
 #define capteurDeLigneDroite 4
 #define capteurDeLigneCentre A1
