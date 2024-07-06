@@ -14,7 +14,7 @@
 
 
 
-/*------------------------------------- ATTENTION --------------------------------------------------
+/*----------------------------------------------- ATTENTION --------------------------------------
 
 Les codes se trouvant dans le dossier || Robot-simo > code || doivent être adaptés à vos robots 
 en raison des défaillances multiples des roues, de leur sens ainsi que des capteurs
@@ -28,7 +28,7 @@ analogWrite( , ); //Faire l'information entre une information 0 à 255
 
 digitalRead( , ); //Lire une information 
 
-//---------------------------------- CONDITION ------------------------------------------------------
+//-------------------------------------------- CONDITION -----------------------------------------------
 
 if(){} //Si
 else(){} //Sinon
